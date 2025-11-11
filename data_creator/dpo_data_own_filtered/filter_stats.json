@@ -1,0 +1,14 @@
+{
+  "total_samples": 26529,
+  "filtered_samples": 23974,
+  "kept_samples": 2555,
+  "filter_rate": 0.903690301179841,
+  "stats": {
+    "identical": 2506,
+    "too_similar": 21468,
+    "kept": 2555
+  },
+  "config": {
+    "max_similarity": 0.85
+  }
+}
