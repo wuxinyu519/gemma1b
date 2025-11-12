@@ -29,7 +29,7 @@ gemma1b/
 ## 数据准备
 
 ### 1️下载数据集  
-将infinitebench数据下载到 `eval/` 目录下，结构如下：
+将infinitebench数据[Data link – Google Drive](https://drive.google.com/drive/folders/1n5g3mff0nTcoBsfd_WdSUZUS0kjMkmTk?usp=sharing).下载到 `eval/` 目录下，结构如下：
 
 ```
 eval/
@@ -42,11 +42,11 @@ eval/
 ```
 
 ### 2放置模型 checkpoint  
-- SFT 模型的 checkpoint 放在：
+- SFT 模型的 checkpoint 放在：:[SFT Checkpoint – Google Drive](https://drive.google.com/file/d/11XuFMZlgAj6lq6Y0g8FwRPDwTyt87tWK/view?usp=sharing). 下载完成后，将文件放置到以下路径：
   ```
   sft/
   ```
-- RLHF 模型的 checkpoint 放在：
+- RLHF 模型的 checkpoint 放在: [DPO Checkpoint – Google Drive](https://drive.google.com/file/d/1rsi04CZK9tK9tRtQlHVaVRAmeBhWpGS1/view?usp=sharing).下载完成后，将文件放置到以下路径：
   ```
   rlhf/
   ```
