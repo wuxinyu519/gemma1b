@@ -66,9 +66,9 @@ qsub infer.sh
 
 | 模板编号 | Ground Truth 路径 | 说明 |
 |-----------|--------------------|------|
-| Template 1 | `./infinite_bench/infinitebench_gpt_gt/cleaned_tags_jsonl/individual_files` | 默认 GT 结构 |
-| Template 2 | `./infinite_bench/infinitebench_gpt_gt/gpt_groundtruth_gpt-4o` | GPT-4o 基准标签 |
-| Template 3 | `./infinite_bench/infinitebench_gpt_gt/gpt_groundtruth_gpt-4o_change` | GPT-4o 修改版本 |
+| Template 1 | `./infinite_bench/infinitebench_gpt_gt/cleaned_tags_jsonl/individual_files` | 默认 template |
+| Template 2 | `./infinite_bench/infinitebench_gpt_gt/gpt_groundtruth_gpt-4o` | Taglist selection |
+| Template 3 | `./infinite_bench/infinitebench_gpt_gt/gpt_groundtruth_gpt-4o_change` | Taglist 修改版本 |
 
 ---
 
